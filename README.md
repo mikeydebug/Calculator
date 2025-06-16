@@ -1,4 +1,6 @@
 🔢 Ultimate Calculator by Mayank Soni 🚀
+
+
 A cutting-edge, responsive calculator web app with elegant design and advanced features - built with pure HTML5, CSS3, and JavaScript.
 
 ✨ Premium Features
@@ -36,12 +38,12 @@ Option 1: GitHub Pages (Recommended)
 
 1. Fork this repository
 2. Enable GitHub Pages in settings
-3. Visit https://yourusername.github.io/calculator
+3. Visit https://mikeydebug.github.io/calculator
 4. 
 Option 2: Local Development
 
 
-git clone https://github.com/mayanksoni-dev/calculator.git
+git clone https://github.com/mikeydebug/calculator.git
 cd calculator
 open index.html
 
