@@ -1,4 +1,4 @@
-### 🔢 Ultimate Calculator by Mayank Soni 🚀
+## 🔢 Ultimate Calculator by Mayank Soni 🚀
 
 
 A cutting-edge, responsive calculator web app with elegant design and advanced features - built with pure HTML5, CSS3, and JavaScript.
